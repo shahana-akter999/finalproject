@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\final_work\final_work\obj\Debug\final_work.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\final_work\final_work\obj\Debug\final_work.Form1.resources
+C:\Users\User\source\repos\final_work\final_work\obj\Debug\final_work.Properties.Resources.resources
+C:\Users\User\source\repos\final_work\final_work\obj\Debug\final_work.csproj.GenerateResource.cache
+C:\Users\User\source\repos\final_work\final_work\obj\Debug\final_work.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\final_work\final_work\bin\Debug\final_work.exe.config
+C:\Users\User\source\repos\final_work\final_work\bin\Debug\final_work.exe
+C:\Users\User\source\repos\final_work\final_work\bin\Debug\final_work.pdb
+C:\Users\User\source\repos\final_work\final_work\obj\Debug\final_work.exe
+C:\Users\User\source\repos\final_work\final_work\obj\Debug\final_work.pdb
